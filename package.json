@@ -16,9 +16,6 @@
     "url": "http://github.com/chriso/redback.git"
   },
   "engines": { "node": ">= 0.4.0" },
-  "dependencies": {
-    "redis": "*"
-  },
   "devDependencies": {
     "expresso": "*",
     "stem": "*"
